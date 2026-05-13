@@ -1,0 +1,15 @@
+{
+  "company": "<company name>",
+  "industry": "<saas | medical_device | financial | other>",
+  "products_include_ai": false,
+  "ai_high_risk_per_eu": false,
+  "deploys_ai_in_eu": false,
+  "products_are_medical_devices": false,
+  "sells_to_eu_customers": false,
+  "sells_to_us_customers": false,
+  "sells_to_enterprise_b2b": false,
+  "processes_personal_data": false,
+  "processes_eu_personal_data": false,
+  "headcount": 0,
+  "stage": "<seed | series_a | series_b | series_c | growth>"
+}
